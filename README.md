@@ -1,5 +1,7 @@
 # WSPR5-Transmitter
 
+:no_entry_sign: _**This does not work, it may never, and it may brick your system if you have an SSD.  Unless you are a bit-banger and a developer, please do not poke at this.  If you ARE an expert in RPi 5 DMA, I could use help.**_ :no_entry_sign:
+
 A singleton C++ class for generating WSPR-encoded or test-tone RF signals using the Raspberry Pi 5 (RP1) PCIe interface with DMA and PIO.
 
 ## Features
